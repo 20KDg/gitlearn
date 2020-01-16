@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a7b2d4f4-42ab-49dc-a3c5-1ea79934294a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="#JAVA_HOME" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Vxzj6ceZwqolklN6AUup16lxf4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/mapper" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEA-Project\learnonline\src\main\resources\mapper" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.learn.system.security" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.learn.system.security" />
+      <recent name="com.learn.system.util" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.LearnSystemApplication">
+    <configuration name="LearnSystemApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.system.LearnSystemApplication" />
+      <module name="learnonline" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learn.system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LearnSystemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="learnonline" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learn.system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.learn.system.LearnSystemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7b2d4f4-42ab-49dc-a3c5-1ea79934294a" name="Default Changelist" comment="" />
+      <created>1578209665848</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578209665848</updated>
+      <workItem from="1578209667554" duration="1908000" />
+      <workItem from="1578316416495" duration="1861000" />
+      <workItem from="1578318379282" duration="32372000" />
+      <workItem from="1578585441701" duration="3962000" />
+      <workItem from="1578590290541" duration="113000" />
+      <workItem from="1578590875767" duration="573000" />
+      <workItem from="1579012134942" duration="312000" />
+      <workItem from="1579012522905" duration="14968000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="356" y="33" key="#Inspections" timestamp="1579003449087">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="356" y="33" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1579003449087" />
+    <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser" timestamp="1578665751542">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1578665751542" />
+    <state x="561" y="75" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1579011902067">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="561" y="75" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1366.728@0.0.1366.728" timestamp="1579011902067" />
+    <state x="462" y="223" width="441" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1578665676361">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="223" width="441" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1578665676361" />
+    <state x="394" y="151" key="FileChooserDialogImpl" timestamp="1579006687224">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="394" y="151" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1579006687224" />
+    <state width="1045" height="142" key="GridCell.Tab.0.bottom" timestamp="1579004053601">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1045" height="142" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579004053601" />
+    <state width="1045" height="142" key="GridCell.Tab.0.center" timestamp="1579004053601">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1045" height="142" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579004053601" />
+    <state width="1045" height="142" key="GridCell.Tab.0.left" timestamp="1579004053601">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1045" height="142" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579004053601" />
+    <state width="1045" height="142" key="GridCell.Tab.0.right" timestamp="1579004053601">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1045" height="142" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579004053601" />
+    <state width="1107" height="169" key="GridCell.Tab.1.bottom" timestamp="1578728852631">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1107" height="169" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1578728852631" />
+    <state width="1107" height="169" key="GridCell.Tab.1.center" timestamp="1578728852631">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1107" height="169" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1578728852631" />
+    <state width="1107" height="169" key="GridCell.Tab.1.left" timestamp="1578728852630">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1107" height="169" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1578728852630" />
+    <state width="1107" height="169" key="GridCell.Tab.1.right" timestamp="1578728852631">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1107" height="169" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1578728852631" />
+    <state x="211" y="0" key="SettingsEditor" timestamp="1579011922905">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="211" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1579011922905" />
+    <state x="368" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1579011883438">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="368" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1579011883438" />
+    <state x="436" y="236" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1579006409937">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="436" y="236" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1579006409937" />
+    <state x="251" y="100" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1578677592729">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="251" y="100" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1578677592729" />
+    <state x="20" y="44" width="1251" height="661" key="new project wizard" timestamp="1579006720765">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="20" y="44" width="1251" height="661" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1579006720765" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/learn/system/util/JwtTokenUtils.java</url>
+          <line>96</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/learn/system/service/impl/MenuServiceImpl.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.2.0.RELEASE/spring-security-web-5.2.0.RELEASE-sources.jar!/org/springframework/security/web/authentication/AbstractAuthenticationProcessingFilter.java</url>
+          <line>192</line>
+          <properties class="org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter" method="doFilter">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
